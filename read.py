@@ -1,0 +1,1 @@
+# Na pasta do Projeto execute "python -m postgres_Flask.api"
